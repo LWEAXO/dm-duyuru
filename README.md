@@ -37,7 +37,9 @@
    ```json
    {
      "token": "DISCORD_BOT_TOKENINIZ",
-     "ownerID": "YONETICI_DISCORD_ID"
+     "ownerID": "YONETICI_DISCORD_ID",
+     "rateLimitDelay": 2500,
+     "prefix": "PREFIX"
    }
    ```
 
